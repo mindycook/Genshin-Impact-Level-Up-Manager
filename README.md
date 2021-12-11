@@ -8,9 +8,12 @@ with a short description of each code file and its purpose.
     - main executable file
     - to start, enter a name
         - if you dont know what name to put, enter "whomst"
-
     - produces two files when run
         -converted_materials.txt
             - a list of the items you have vs the list of the items
         -resin_cost.txt
             - a summarry of how many days it will take
+
+
+lisa.txt, albedo.txt, klee.txt, jean.txt
+    -give the program names for variables
