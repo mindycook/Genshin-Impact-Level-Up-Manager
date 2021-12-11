@@ -13,7 +13,9 @@ with a short description of each code file and its purpose.
             - a list of the items you have vs the list of the items
         -resin_cost.txt
             - a summarry of how many days it will take
+    - you can use 0s for all of the \_/\_ Convert Materials _/\_/ inputs
 
 
 lisa.txt, albedo.txt, klee.txt, jean.txt
     -give the program names for variables
+
